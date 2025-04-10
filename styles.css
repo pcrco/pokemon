@@ -1,0 +1,17 @@
+<head>
+    <style>
+    body {
+        background-color: lightgrey; 
+        color: #333333; 
+    }
+
+    div {
+        margin: 1px; /* exterior */
+        padding: 30px; /* interior */
+        border: 1px solid black; /* borde */
+        box-sizing: border-box; /* Inclou el padding i la vora en l'amplada total */
+        box-shadow: 5px 5px;
+    } 
+
+    </style>
+</head>
